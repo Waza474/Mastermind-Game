@@ -1,0 +1,31 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assignment2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Board.cpp
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\board.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\board.cpp(114): warning C4018: '<': signed/unsigned mismatch
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\board.cpp(121): warning C4018: '<': signed/unsigned mismatch
+  Mastermind.cpp
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\mastermind.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\mastermind.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\mastermind.h(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\mastermind.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\mastermind.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\player.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\player.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\mastermind.h(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\mastermind.cpp(47): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\mastermind.cpp(286): warning C4018: '<': signed/unsigned mismatch
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\mastermind.cpp(305): warning C4018: '<': signed/unsigned mismatch
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\mastermind.cpp(306): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\player.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\player.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\player.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  displayBoardTester.cpp
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\displayboardtester.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\displayboardtester.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\displayboardtester.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\displayboardtester.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\displayboardtester.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pavle\google drive\uni\fit1048 c++\pavlespasica3\assignment2\displayboardtester.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Assignment2.vcxproj -> C:\Users\Pavle\Google Drive\UNI\FIT1048 C++\PavleSpasicA3\Debug\PavleSpasicA3.exe

@@ -1,0 +1,45 @@
++x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x
+                  Mastermind : Super City Police Force
++x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x
+ 
+  Welcome Captain, 
+
+  Mastermind and his super villain team "BAM" are back at it again, they
+  have planted bombs all over the city and they need to be defused.
+
+  Before we can get anywhere, you must sign into the system first:
+	
+  a) Type in your name and press Enter.
+  b) Select which villain you will pursue: 
+  	[1] Blast Boy = standard: 4 columns x 10 rows 
+ 	[2] Amateur Atom = tricky: 5 columns x 12 rows - AND DUPLICATES! 
+ 	[3] Mastermind = hard: 6 columns x 14 rows
+ 
+  Once you have logged in, you are ready to save the city.
+ 
+  In order to save Super City, you need to diffuse the many bombs planted
+  by the BAM crew, to do so you type in a series of numbers and press
+  ENTER to check it against the super villain's code. Think carefully,
+  our defusal system only allows a few attempts before it's too late.
+
+  The defusal system is set up to help, each time you enter a code, clues
+  will show if you have guessed any number correctly (o) or guessed
+  correctly but is in the wrong place (?). The length of the secret code
+  will always be showed, so will your previous attempts.
+
+  At any time whilst defusing, you may type these:
+  
+  [C] For an extra clue on the secret code (3 per game). 
+  [H] To display this help screen again. 
+  [Q] To quit/close the game 
+  [X] To skip this bomb and hand it over to another captain 
+	(This will erase any win streak). 
+  [S] To save the current progress of the Game. 
+  [L] To load a save state.
+
+  After 5 successful defuses, the option to move onto the next villain 
+  will appear.
+  Although, if you fail 5 in a row, you will be automatically demoted
+  to the previous villain.
+
+  We wish you the best of luck captain, save Super City...
